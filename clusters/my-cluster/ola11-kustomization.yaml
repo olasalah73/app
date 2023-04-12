@@ -10,5 +10,6 @@ spec:
   prune: true
   sourceRef:
     kind: GitRepository
-    name: ola-source
+
+    name: git-ola
   targetNamespace: app
